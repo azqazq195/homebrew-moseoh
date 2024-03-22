@@ -2,7 +2,7 @@
     desc "Simple shell for Beginner"
     homepage "https://github.com/azqazq195/simple-shell"
     url "https://github.com/azqazq195/simple-shell/releases/download/0.0.1/smp.tar.gz"
-    sha256 "857b7ed400e790f2145ee2f61ce775e4ce4f63286bc4ea5c488c57c5af46401b"
+    sha256 "fc99b41a93fc4501d26aba69f9b01c23b8f870dbc18ee951976d72db0d5da6eb"
     license "MIT"
     version "0.0.1"
 
